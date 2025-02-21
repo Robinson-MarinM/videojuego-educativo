@@ -1,20 +1,23 @@
 # videojuego-educativo
 
-The logical island es un videojuego educativo diseñado para enseñar logica de programación
-a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
+The logical island es un videojuego educativo diseñado para enseñar logica de programación y 
+algoritmos a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
 La historia se desarrolla en una isla decierta, un mundo lleno de misterios, desafíos y
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
 juego está diseñado para combinar diversión y educación, permitiendo que los
-estudiantes adquieran conocimientos de la asignatura de Historia, de manera natural mientras exploran,
-resuelven problemas y superan obstáculos.
+estudiantes adquieran conocimientos de la asignatura de logica de programación y algoritmos, 
+de manera natural mientras exploran, resuelven problemas y superan obstáculos en los cuales 
+ira aplicando conocimientos adquiridos .
 
-El protagonista de esta aventura es Alex, el guardian del conocimiento. es un joven aprendiz de historiador con una gran curiosidad y valentía que deberá enfrentar desafíos mientras aprende conceptos clave de Historia.
+El protagonista de esta aventura es Alex, el guardian del conocimiento. Es un joven aprendiz de 
+historiador con una gran curiosidad y valentía que deberá enfrentar desafíos mientras aprende 
+conceptos clave de Historia.
 
 - Los jugadores podrán explorar diferentes salas del templo y resolver acertijos históricos.
 - Para avanzar, deberán completar desafíos de trivia y recolectar reliquias perdidas.
 - Los desafíos incluirán preguntas de historia, rompecabezas y pruebas interactivas.
 
 El juego se desarrollará usando Java y tendrá soporte para
-mobile y Web. Además, se implementarán características como
-respaldo de progreso en servidor web, podra cambiar de plataforma y seguir con tu progreso actual para garantizar una experiencia de
-juego fluida y atractiva.
+mobile y Web. Además, se implementarán características comorespaldo de 
+progreso en servidor web, podra cambiar de plataforma y seguir con tu 
+progreso actual para garantizar una experiencia de juego fluida y atractiva.
