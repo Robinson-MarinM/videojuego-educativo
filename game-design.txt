@@ -1,6 +1,6 @@
 # videojuego-educativo
 
-The logical islan es un videojuego educativo diseñado para enseñar logica de programación
+The logical island es un videojuego educativo diseñado para enseñar logica de programación
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
 La historia se desarrolla en una isla decierta, un mundo lleno de misterios, desafíos y
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
@@ -14,7 +14,7 @@ El protagonista de esta aventura es Alex, el guardian del conocimiento. es un jo
 - Para avanzar, deberán completar desafíos de trivia y recolectar reliquias perdidas.
 - Los desafíos incluirán preguntas de historia, rompecabezas y pruebas interactivas.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
+El juego se desarrollará usando Java y tendrá soporte para
+mobile y Web. Además, se implementarán características como
+respaldo de progreso en servidor web, podra cambiar de plataforma y seguir con tu progreso actual para garantizar una experiencia de
 juego fluida y atractiva.
